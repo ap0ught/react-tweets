@@ -14,18 +14,18 @@
   "dependencies": {
     "express": "~4.22.1",
     "express-handlebars": "~8.0.4",
-    "mongoose": "^4.2.6",
+    "mongoose": "^6.13.6",
     "node-jsx": "~0.12.4",
     "react": "~0.14.6",
     "socket.io": "^4.8.3",
-    "twitter": "^1.2.0"
+    "twitter": "~1.1.0"
   },
   "devDependencies": {
-    "browserify": "~6.0.3",
-    "nodemon": "^1.2.1",
+    "browserify": "^17.0.1",
+    "nodemon": "^3.1.9",
     "reactify": "~1.1.1",
-    "uglify-js": "~2.4.15",
-    "watchify": "^3.1.1"
+    "uglify-js": "^3.19.3",
+    "watchify": "^4.0.0"
   },
   "browserify": {
     "transform": [
