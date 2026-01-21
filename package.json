@@ -31,5 +31,8 @@
     "transform": [
       "reactify"
     ]
+  },
+  "overrides": {
+    "elliptic": "github:drzippie/elliptic#fix/ecdsa-leading-zero-k-value"
   }
 }
