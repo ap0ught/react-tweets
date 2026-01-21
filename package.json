@@ -34,5 +34,8 @@
   },
   "overrides": {
     "elliptic": "github:drzippie/elliptic#fix/ecdsa-leading-zero-k-value"
+  },
+  "comments": {
+    "elliptic-override": "Temporary fix for CVE-2025-14505 using PR #345 from drzippie/elliptic. Update to official elliptic@6.6.2+ when released."
   }
 }
