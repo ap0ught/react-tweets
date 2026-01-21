@@ -13,11 +13,11 @@
   "license": "MIT",
   "dependencies": {
     "express": "~4.22.1",
-    "express-handlebars": "~1.1.0",
+    "express-handlebars": "~8.0.4",
     "mongoose": "^4.2.6",
     "node-jsx": "~0.12.4",
     "react": "~0.14.6",
-    "socket.io": "^1.7.4",
+    "socket.io": "^4.8.3",
     "twitter": "^1.2.0"
   },
   "devDependencies": {
